@@ -1,0 +1,12 @@
+phidata
+python-dotenv
+duckduckgo-search
+yfinance
+pandas
+packaging
+uvicorn
+fastapi
+groq
+pillow
+streamlit
+
